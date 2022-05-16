@@ -1,0 +1,7 @@
+{
+    "require": {
+        "afragen/wordpress-plugin-readme-parser": "dev-master",
+        "afragen/singleton": "dev-master",
+        "afragen/github-updater": "dev-master"
+    }
+}
